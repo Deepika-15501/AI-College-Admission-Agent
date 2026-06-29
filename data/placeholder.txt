@@ -1,1 +1,1 @@
-test
+This folder contains the official admission documents and FAQ datasets for the Apex Institute of Technology and Sciences (Academic Year 2026-27), used for grounding the AI College Admission Agent.
